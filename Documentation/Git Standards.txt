@@ -1,0 +1,3 @@
+No commits ever directly to the main branch.
+Create a branch for the changes and a pull request to the main branch.
+Whenever pull requests are accepted, delete the branch

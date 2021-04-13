@@ -3,6 +3,7 @@ Large Folders = PascalCase
 Methods = PascalCase
 Classes = PascalCase
 Enumerations = PascalCase
+Git Branches = PascalCase
 
 Variables = camelCase
 Small Files = camelCase
