@@ -1,0 +1,7 @@
+No design decision is arbitrary.
+
+Each recipe change is there for a reason, detatiled in the [TBD] file
+
+Each quest is there for a reason, detailed in the quest_details folder
+
+Each quest reward serves a purpose, detailed in the quest_details folder

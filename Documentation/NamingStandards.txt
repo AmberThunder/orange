@@ -1,0 +1,19 @@
+Important Files = PascalCase
+Large Folders = PascalCase
+Methods = PascalCase
+Classes = PascalCase
+Enumerations = PascalCase
+
+Variables = camelCase
+Small Files = camelCase
+Small Folders = camelCase
+Constants = CAPITALCASE
+
+Exceptions:
+Modpack/mods
+Modpack/config
+Modpack/config/*
+Modpack/scripts
+README.txt
+.gitignore
+loop variables i,j & k
